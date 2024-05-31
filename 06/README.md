@@ -181,22 +181,9 @@ Mari kita lihat sekilas arsitektur VGG:
 
 -Lapisan Terhubung Sepenuhnya: Ini, ada tiga lapisan yang terhubung sepenuhnya di VGGnet. Dua lapisan pertama masing-masing memiliki 4096 saluran, sedangkan lapisan ketiga memiliki 1 saluran per kelas — yang berarti total 1000 saluran.
 
-Lapisan yang terhubung sepenuhnya:
-
-![image](https://github.com/Ratusukmakomala/kelas/assets/92583035/07e96aeb-21a0-4566-a6fd-1d6b6fa41009)
-
-Arsitektur VGG-16 :
-
-![image](https://github.com/Ratusukmakomala/kelas/assets/92583035/6e701627-da61-4c55-8d39-02bad8b4c014)
-
 Arsitektur Jaringan Neural Konvolusional: Data gambar adalah masukan dari CNN; keluaran model menyediakan kategori prediksi untuk gambar masukan:
 
 ![image](https://github.com/Ratusukmakomala/kelas/assets/92583035/65df0854-9011-434d-8a3f-4c7a5a9733f4)
-
-
-Arsitektur Jaringan Neural VGG16:
-
-![image](https://github.com/Ratusukmakomala/kelas/assets/92583035/75c5d560-383b-424a-8e54-2846c28f824c)
 
 
 * RNN
