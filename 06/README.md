@@ -285,7 +285,8 @@ if __name__ == "__main__":
     print("Prediksi:")
     print(predictions)
 ```
-    Hasilnya running pada code diatas adalah:
+
+Hasilnya running pada code diatas adalah:
 
    ![WhatsApp Image 2024-05-31 at 12 59 04_026da93b](https://github.com/Ratusukmakomala/kelas/assets/92583035/f9c6bbdf-45f1-4915-81e1-635a8d948320)
 
